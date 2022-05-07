@@ -17,5 +17,5 @@ no image mode
 - Clone or download project.
 - Add this line in your pod file:  pod "WebBrowser", :path => "../"
 - Run pod install.
-- Call view controller BrowserViewController in your code.
+- Call view controller "BrowserViewController" in your code.
 
