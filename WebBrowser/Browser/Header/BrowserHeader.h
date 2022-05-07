@@ -3,7 +3,7 @@
 //  WebBrowser
 //
 //  Created by 钟武 on 2016/10/13.
-//  Copyright © 2021 by Eric B. All rights reserved.
+//  Copyright © 2022 by Eric B. All rights reserved.
 //
 
 #ifndef BrowserHeader_h

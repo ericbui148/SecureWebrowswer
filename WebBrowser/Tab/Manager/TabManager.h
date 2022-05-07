@@ -3,7 +3,7 @@
 //  WebBrowser
 //
 //  Created by Hiep Bui on 2021/02/13.
-//  Copyright © 2021 by Eric B. All rights reserved.
+//  Copyright © 2022 by Eric B. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

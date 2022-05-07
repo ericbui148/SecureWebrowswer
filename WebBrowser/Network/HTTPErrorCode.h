@@ -3,7 +3,7 @@
 //  ZhihuDaily
 //
 //  Created by 钟武 on 16/8/3.
-//  Copyright © 2021 by Eric B. All rights reserved.
+//  Copyright © 2022 by Eric B. All rights reserved.
 //
 
 #ifndef HTTPErrorCode_h

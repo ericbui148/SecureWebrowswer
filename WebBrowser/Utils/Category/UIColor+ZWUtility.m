@@ -3,7 +3,7 @@
 //  iOSSampleCode
 //
 //  Created by 钟武 on 16/7/4.
-//  Copyright © 2021 by Eric B. All rights reserved.
+//  Copyright © 2022 by Eric B. All rights reserved.
 //
 
 #import "UIColor+ZWUtility.h"
