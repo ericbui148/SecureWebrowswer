@@ -3,7 +3,7 @@
 //  WebBrowser
 //
 //  Created by 钟武 on 2016/11/10.
-//  Copyright © 2021 by HKTalk. All rights reserved.
+//  Copyright © 2021 by Eric B. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

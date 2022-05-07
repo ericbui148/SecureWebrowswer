@@ -3,7 +3,7 @@
 //  WebBrowser
 //
 //  Created by 钟武 on 2016/10/4.
-//  Copyright © 2021 by HKTalk. All rights reserved.
+//  Copyright © 2021 by Eric B. All rights reserved.
 //
 
 #ifndef WebViewHeader_h

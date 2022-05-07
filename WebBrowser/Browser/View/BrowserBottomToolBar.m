@@ -3,7 +3,7 @@
 //  WebBrowser
 //
 //  Created by Hiep Bui on 2021/02/13.
-//  Copyright © 2021 by HKTalk. All rights reserved.
+//  Copyright © 2021 by Eric B. All rights reserved.
 //
 
 #import "BrowserBottomToolBar.h"
