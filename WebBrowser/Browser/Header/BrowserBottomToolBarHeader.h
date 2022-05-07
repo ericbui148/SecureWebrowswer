@@ -2,7 +2,7 @@
 //  BrowserBottomToolBarHeader.h
 //  WebBrowser
 //
-//  Created by Hiep Bui on 2021/02/13.
+//  Created by Eric B on 2022/02/13.
 //  Copyright © 2022 by Eric B. All rights reserved.
 //
 
