@@ -12,3 +12,10 @@ no image mode
 -Bookmark, history management (bookmark, history manage) find in page
 - Click the title bar to access or search the page (tap the title bar to input url for surf or key to search)
 - Automatic monitoring of clipboard URLs, which can be opened in a new window
+
+*Run by CocoaPods*
+- Clone or download project.
+- Add this line in your pod file:  pod "WebBrowser", :path => "../"
+- Run pod install.
+- Call view controller BrowserViewController in your code.
+
