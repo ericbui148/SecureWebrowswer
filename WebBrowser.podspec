@@ -10,10 +10,10 @@ Pod::Spec.new do |s|
                             find in page. Click the title bar to access or search the page (tap the title bar to input url for surf or key to search)
                             Automatic monitoring of clipboard URLs, which can be opened in a new window
                          DESC
-    s.homepage         = "https://hktalk.net"
-    s.source           = { :git => "https://github.com/hktalk/WebBrowswer.git", :tag => "#{s.version}" }
+    s.homepage         = "https://github.com/ericbui148/SecureWebroswer"
+    s.source           = { :git => "https://github.com/ericbui148/SecureWebroswer", :tag => "#{s.version}" }
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
-    s.author           = { "HKTalk" => "hktalk2019@gmail.com" }  
+    s.author           = { "Eric B" => "bthiep148@gmail.com" }  
     s.platform     = :ios, '10.0'
     s.ios.deployment_target = '10.0'
     s.requires_arc = true
