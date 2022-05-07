@@ -1,4 +1,4 @@
-# SecureWebroswer
+# SecureWebrowswer
 An APP for web browsing (Web Browser For iOS). This refactor from https://github.com/zhongwuzw/WebBrowser to support install such as a sub-project.
 
 *Features - Features*
